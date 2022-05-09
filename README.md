@@ -16,7 +16,7 @@ A field that adds reordering functionality to your Laravel Nova resource's index
 This package can be installed through Composer.
 
 ```bash
-composer require michielkempen/nova-order-field
+composer require jeffersonsimaogoncalves/nova-order-field
 ```
 
 ### Usage
